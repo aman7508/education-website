@@ -1,0 +1,108 @@
+.our-courses
+{
+    padding: 20px;
+    height: 200px;
+    background-image: url("./home.jpg");  
+}
+.our-course-box
+{
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.categories
+{
+    margin-top: 80px;
+}
+
+.title
+{
+    width: 280px;
+    height: 200px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 100px;
+    box-shadow: 0 0 20px 2px rgba(0,0,0, .1);
+    transition: 1s;
+    margin-bottom: 80px;
+}
+.title .image
+{
+    height: 100%;
+    width: 100%;
+    display: block;
+    border-radius: 5px;
+}
+.btn1
+{
+    margin-top: 425px;
+    margin-right: 300px;
+}
+.title2
+{
+    border: none;
+    background: #2ed573;
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    position: relative;
+    box-sizing: border-box;
+    transition: all 500ms ease;
+    text-align: center;
+    height: 45px;
+    width: 280px;
+    
+}
+.title2:hover
+{
+    color: black;
+  border: #ff7a59 solid 1px;
+  background:#74b9ff;
+}
+.search
+{
+    margin-top: 70%;
+    text-align: center;
+    height: 300px;
+    width: 82%;
+    margin-left: 140px;
+    background-color: #FC427B;
+    
+}
+.search-your-course
+{
+    
+    margin-top: 30px;
+    display: inline-block;
+    color: white;
+   
+}
+.search-inner
+{
+    margin-top: 20px;
+    width: 80%;
+    height: 150px;
+    margin-left: 130px;
+    background-color: white;
+}
+.search-inner .input3, .input4
+{
+    margin-top: 50px;
+	justify-items: center;
+	width: 40%;
+    height: 32%;
+}
+.button1
+{
+    height: 50px;
+    width: 140px;
+    font-size: 17px;
+    border-radius: 10px;
+    background-color: #FC427B; 
+    color: white;  
+   
+}

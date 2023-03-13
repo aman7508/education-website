@@ -1,0 +1,107 @@
+.javascript-course-box
+{
+    padding: 20px;
+    height: 350px;
+    background-image: url("./home4.jpg");
+    
+}
+.javascript-course-details
+{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.enroll-javascript
+{
+    
+    padding: 20px;
+    vertical-align: middle;
+    margin-top: 60px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    height: 480px;
+    width: 100%;
+}
+.javascript-enroll-course
+{
+    display: inline-block;
+    margin-left: 90px;
+    width: 1300px;
+    height: 450px;
+    margin-bottom: 0px;
+    background-color: white;
+}
+.javascript-trainer
+{
+    margin-bottom: 00px;
+    margin-left: 360px;
+    margin-top: 50px;
+    background-color: antiquewhite;
+    width: 500px;
+    font-size: 20px;
+}
+.javascript-trainer-name
+{
+    margin-left: 200px;
+    align-items: center;
+}
+.javascript-enroll-button
+{
+    margin-left: 300px ;
+    margin-top: 40px;
+    padding: 10px;
+    border: none;
+    background-color: #341f97;
+    color: white;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    display: inline-block;
+}
+.javascript-download-button
+{
+    margin-left: 20px;
+    padding: 10px;
+    border: none;
+    background-color: #341f97;
+    color: white;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+}
+.javascript-underline
+{
+    text-decoration-color: #fbc531;
+}
+.box-javascript
+{
+    margin-bottom: 180px;
+}
+.javascript-course-outline
+{
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.dropdown-javascript
+{
+    margin-top: 40px;
+    margin-left: 500px;
+    font-size: 25px;
+    background-color: aliceblue;
+    width: 500px;
+    color: black;
+    display: inline-block;
+    border: 2px solid;
+    border-color:red green blue yellow;
+    padding: 10px;
+}
+.javascriptintro
+{
+    margin-top: 10px;
+    margin-left: 520px;
+    display: inline block;
+    
+}

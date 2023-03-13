@@ -1,0 +1,89 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 95px;
+    background-color: #5f27cd;
+    color: white;
+}
+.logo
+{
+    font-size: 30px;
+    margin-left: 40px;
+    font-family: cursive;
+}
+.logo span
+{
+    color: red;
+}
+.pp
+{
+    font-size: 15px;
+    text-align: center;
+}
+.nav-links
+{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    width: 75%;
+    color: aliceblue;
+}
+.home, .about, .courses, .contact, .login, .project
+{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 0 20px;
+    cursor: pointer;
+}
+.nav-links li
+{
+    color: white;
+}
+.login
+{
+    border-radius: 5px;
+}
+.mobile-menu-icon
+{
+    display: none;
+}
+.navbar .nav-links
+{
+    background-color: #5f27cd;
+   
+}
+.toggle
+{
+    width: 100%;
+    padding: 10px 20px;
+    background: #001f44;
+    text-align: center;
+    box-sizing: border-box;
+    color: #fff;
+    font-size: 30px;
+    display: none;
+}
+@media (max-width:768px)
+{
+    .toggle
+    {
+        display: block;
+    }
+    .nav-links
+    {
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+}
+

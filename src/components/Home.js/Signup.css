@@ -1,0 +1,70 @@
+.signupbox
+{
+    width: 750px;
+    height: 610px;
+    border-radius: 15px;
+    margin-top: 0px;
+    margin-left: 400px;
+    background-color: #dfe6e9;
+}
+.logo-signup
+{
+    text-align: center;
+    margin-top: 5px;
+}
+.signup-input
+{
+    margin-left: 175px;
+    width: 400px;
+    height: 35px;
+    padding:10px;
+	font-family:cursive ,fontawesome;
+    text-decoration: none;
+}
+.signup-input::placeholder
+{
+    text-align: center;
+}
+.signup-button
+{
+    margin-top: 5px;
+    margin-left: 300px;
+    width: 150px;
+    font-size: 20px;
+    height: 40px;
+    color: black;
+    background-color: #4cd137;
+    border: none;
+    border-radius: 10px;
+    
+}
+.or
+{
+    text-align: center;
+    margin-top: 20px;
+}
+.facebookicon
+{
+    color: white;
+    background-color: #4834d4;
+    font-size: 25px;
+    margin-left: 30px;
+    width: 125px;
+    height: 40px;
+    margin-left: 230px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+.googleicon
+{
+        background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        -webkit-text-fill-color: transparent;
+        font-size: 25px;
+        margin-left: 60px;
+        width: 125px;
+        height: 40px;
+        border-radius: 20px;
+}

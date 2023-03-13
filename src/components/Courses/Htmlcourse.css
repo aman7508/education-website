@@ -1,0 +1,121 @@
+.html-course-box
+{
+    padding: 20px;
+    height: 350px;
+    background-image: url("./home4.jpg");
+    
+}
+.html-course-details
+{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.dropdown-html
+{
+    margin-top: 40px;
+    margin-left: 500px;
+    font-size: 25px;
+    background-color: aliceblue;
+    width: 500px;
+    color: black;
+    display: inline-block;
+    border: 2px solid ;
+    border-color:red green blue yellow;
+    padding: 10px;
+}
+.html-underline
+{
+    text-decoration-color: #fbc531;
+}
+.box-html
+{
+    margin-bottom: 180px;
+}
+.htmlintro
+{
+    margin-top: 10px;
+    margin-left: 520px;
+    display: inline block;
+    
+}
+.html-course-outline
+{
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.dropdown-box-html
+{
+    width: 500px;
+    height: 300px;
+    margin-left: 520px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    margin-bottom: 50px;
+    
+}
+.enroll-html
+{
+    
+    padding: 20px;
+    vertical-align: middle;
+    margin-top: 60px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    height: 480px;
+    width: 100%;
+    
+}
+.html-enroll-course
+{
+    display: inline-block;
+    margin-left: 90px;
+    width: 1300px;
+    height: 450px;
+    margin-bottom: 0px;
+    background-color: white;
+}
+.html-trainer
+{
+    margin-bottom: 00px;
+    margin-left: 360px;
+    margin-top: 50px;
+    background-color: antiquewhite;
+    width: 500px;
+    font-size: 20px;
+}
+.html-trainer-name
+{
+    margin-left: 200px;
+    align-items: center;
+}
+.html-enroll-button
+{
+    margin-left: 300px ;
+    margin-top: 40px;
+    padding: 10px;
+    border: none;
+    background-color: #341f97;
+    color: white;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    display: inline-block;
+}
+.html-download-button
+{
+    margin-left: 20px;
+    padding: 10px;
+    border: none;
+    background-color: #341f97;
+    color: white;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+
+}
